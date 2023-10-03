@@ -1,0 +1,26 @@
+.container {
+    text-align: center;
+    margin-top: 20px;
+    justify-content: space-evenly;
+}
+.choices {
+    left: auto;
+}
+
+#user-choice, #computer-choice {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#result {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
